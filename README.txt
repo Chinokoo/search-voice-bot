@@ -6,7 +6,10 @@ How to use the Search Bot assistance code!
 
 3. Extract the zip file and copy the chromedriver.exe file to the same directory as the code.
 
-4. Run the code and follow the instructions.
+4. Install the required packages by typing "pip install pyaudio selenium SpeechRecognition" in the terminal.
 
-5. Enjoy!
+5. Run the code and follow the instructions
+    - After running the code speak whatever you want to search for.
+
+6. Enjoy!
 
